@@ -1,11 +1,12 @@
 ---
-title: About Index
-subtitle: Index is a minimal, fixed sidebar grid portfolio Jekyll theme. Perfect for designers, artists, photographers and developers to use for their portfolio website.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
+title: About This Website
+subtitle: This website is deemed to share lecture notes, conference slides and other information among a group of Ph.D students in economic field. We hope that it helps promote a healthy environment.
+description:
 featured_image: /images/demo/demo-landscape.jpg
 ---
-
-![](/images/demo/demo-landscape.jpg)
+![](/images/pikachu-lets-go.jpg)
+<!--
+![](/images/pikachu-lets-go.jpg)
 
 ## Features
 
@@ -32,4 +33,4 @@ Index is packed with powerful features to showcase your work:
 
 Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
