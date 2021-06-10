@@ -1,36 +1,18 @@
 ---
 title: About This Website
-subtitle: This website is deemed to share lecture notes, conference slides and other information among a group of Ph.D students in economic field. We hope that it helps promote a healthy environment.
+subtitle: This website is deemed to share lecture notes, conference slides and other information.
 description:
-featured_image: /images/demo/demo-landscape.jpg
+featured_image: 
 ---
-![](/images/pikachu-lets-go.jpg)
-<!--
-![](/images/pikachu-lets-go.jpg)
 
 ## Features
 
 Index is packed with powerful features to showcase your work:
 
-* Beautiful, minimal design
-* Fixed sidebar menu
-* Two-column masonry grid layout
-* Responsive – works perfectly on all devices
-* Portfolio post type
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+
 
 ## Get Index
 
 Index is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $29.
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a> -->
+<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>

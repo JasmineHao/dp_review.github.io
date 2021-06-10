@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Teaching Resources
+  site_tagline: Website for slides.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,15 +9,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Projects'
+    #   url: '/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
-
+    
 grid_settings:
   overlay_opacity: 0.8
   grid_spacing: 20
@@ -71,8 +71,10 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">'
-  title_font: '"Montserrat", sans-serif'
-  body_font: '"Montserrat", sans-serif'
+  # title_font: '"Montserrat", sans-serif'
+  # body_font: '"Montserrat", sans-serif'
+  title_font: '"Times New Roman", sans-serif'
+  body_font: '"Times New Roman", sans-serif'
   regular_weight: 300
   bold_weight: 500
   site_title:
